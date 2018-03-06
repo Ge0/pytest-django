@@ -17,7 +17,7 @@ def read(fname):
 
 
 setup(
-    name='pytest-django',
+    name='pytest-django-gcir',
     use_scm_version=True,
     description='A Django plugin for pytest.',
     author='Andreas Pelme',
